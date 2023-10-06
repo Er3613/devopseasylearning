@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Oct 2023 20:23:54 at https://www.devopseasylearning.com/registration +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.devopseasylearning.com/registration -O1 "C:\Users\Zabbix\Desktop\easy\easy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:24:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.devopseasylearning.com/xmlrpc.php?rsd (from https://www.devopseasylearning.com/registration/)
+20:24:56	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2708
+20:24:56	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2708 to https://www.devopseasylearning.com/registration/
+20:25:14	Error: 	"Not Found" (404) at link https://www.devopseasylearning.com/privacy-policy/ (from https://www.devopseasylearning.com/registration/)
+20:25:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.devopseasylearning.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1 (from https://www.devopseasylearning.com/registration/)
+20:25:16	Warning: 	File not parsed, looks like binary: https://www.devopseasylearning.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+20:25:16	Warning: 	File not parsed, looks like binary: https://www.devopseasylearning.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+20:25:16	Error: 	"Not Found" (404) at link https://www.devopseasylearning.com/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.eot?c3wvz6 (from https://www.devopseasylearning.com/wp-content/plugins/wp-events-manager/assets//css/frontend/events.min.css?ver=6.3.1)
+20:25:16	Error: 	"Not Found" (404) at link https://www.devopseasylearning.com/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.ttf?c3wvz6 (from https://www.devopseasylearning.com/wp-content/plugins/wp-events-manager/assets//css/frontend/events.min.css?ver=6.3.1)
+20:25:16	Error: 	"Not Found" (404) at link https://www.devopseasylearning.com/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.woff?c3wvz6 (from https://www.devopseasylearning.com/wp-content/plugins/wp-events-manager/assets//css/frontend/events.min.css?ver=6.3.1)
+20:25:16	Error: 	"Not Found" (404) at link https://www.devopseasylearning.com/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.svg?c3wvz6 (from https://www.devopseasylearning.com/wp-content/plugins/wp-events-manager/assets//css/frontend/events.min.css?ver=6.3.1)
+20:25:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.devopseasylearning.com/wp-content/plugins/ld-dashboard/public/img/angle-left-b.svg (from https://www.devopseasylearning.com/wp-content/plugins/ld-dashboard/public/css/ld-dashboard-public.css?ver=5.9.7)
+20:25:16	Error: 	"Not Found" (404) at link https://www.devopseasylearning.com/wp-content/plugins/ld-dashboard/public/css/desaturate.svg (from https://www.devopseasylearning.com/wp-content/plugins/ld-dashboard/public/css/ld-dashboard-public.css?ver=5.9.7)
+20:25:16	Error: 	"Not Found" (404) at link https://www.devopseasylearning.com/wp-content/plugins/ld-dashboard/public/img/icons/plus-circle.svg (from https://www.devopseasylearning.com/wp-content/plugins/ld-dashboard/public/css/ld-dashboard-public.css?ver=5.9.7)
+20:25:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.devopseasylearning.com/xmlrpc.php?rsd (from https://www.devopseasylearning.com/registration/)
+20:25:18	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=30436
+20:25:18	Warning: 	File has moved from https://www.devopseasylearning.com/?p=30436 to https://www.devopseasylearning.com/verify-certification/
+20:25:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.devopseasylearning.com/wp-content/uploads/elementor/css/post-2033.css?ver=1685038144 (from https://www.devopseasylearning.com/instalments-plan/)
+20:25:33	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2033
+20:25:33	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2033 to https://www.devopseasylearning.com/instalments-plan/
+20:25:33	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=368
+20:25:33	Warning: 	File has moved from https://www.devopseasylearning.com/?p=368 to https://www.devopseasylearning.com/contact/
+20:25:33	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2434
+20:25:33	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2434 to https://www.devopseasylearning.com/login/
+20:25:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.devopseasylearning.com/events/feed/ (from https://www.devopseasylearning.com/events/)
+20:25:38	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.devopseasylearning.com/xmlrpc.php?rsd (from https://www.devopseasylearning.com/registration/)
+20:25:38	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=29899
+20:25:38	Warning: 	File has moved from https://www.devopseasylearning.com/?p=29899 to https://www.devopseasylearning.com/events/session-6-november-2023/
+20:25:38	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2801
+20:25:38	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2801 to https://www.devopseasylearning.com/events/session-5-november-2022-2/
+20:25:43	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2813
+20:25:43	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2813 to https://www.devopseasylearning.com/register/6-installments/
+20:25:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.devopseasylearning.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.devopseasylearning.com%2Fregister%2F6-installments%2F&format=xml (from https://www.devopseasylearning.com/register/6-installments/)
+20:25:43	Error: 	"Not Found" (404) at link https://www.devopseasylearning.com/register/3-installments/feed/ (from https://www.devopseasylearning.com/register/3-installments/)
+20:25:43	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2814
+20:25:43	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2814 to https://www.devopseasylearning.com/register/3-installments/
+20:25:43	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2815
+20:25:43	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2815 to https://www.devopseasylearning.com/register/2-installments/
+20:25:43	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2816
+20:25:43	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2816 to https://www.devopseasylearning.com/register/pay-in-full/
+20:25:43	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2718
+20:25:43	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2718 to https://www.devopseasylearning.com/events/session-4-july-2022/
+20:25:43	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2687
+20:25:43	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2687 to https://www.devopseasylearning.com/events/session-of-november-2021/
+20:25:43	Warning: 	Moved Permanently for https://www.devopseasylearning.com/?p=2375
+20:25:43	Warning: 	File has moved from https://www.devopseasylearning.com/?p=2375 to https://www.devopseasylearning.com/events/may-2021-session/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 49 seconds : 313 links scanned, 282 files written (19501490 bytes overall) [11882177 bytes received at 109010 bytes/sec], 11676912 bytes transferred using HTTP compression in 215 files, ratio 21%, 11.2 requests per connection
+(9 errors, 37 warnings, 0 messages)

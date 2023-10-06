@@ -1,0 +1,87 @@
+/*Style for ssc-field.tpl.php*/
+.elc-ssc-wrapper .elc-ssc-label:after{
+    content: ':';
+}
+
+/* Style for div.tpl.php */
+div.elc_search-div div.elc-wrapper {
+    padding-top: 1em;
+}
+div.elc_search-div div.elc-wrapper span:first-of-type {
+    font-weight: 700;
+}
+div.elc_search-div div.elc-wrapper span:first-of-type:after {
+    content: "";
+    display: block;
+}
+
+@media (min-width: 768px) {
+    div.elc_search-div div.elc-wrapper {
+        display: flex;
+        justify-content: space-between;
+    }
+    div.elc_search-div div.elc-wrapper span:nth-of-type(2) {
+        flex-grow: 1;
+        border-bottom: dashed 1px #dddddd;
+        align-self: baseline;
+        margin: 1em 0.5em 0;
+    }
+}
+
+/* Style for list.tpl.php */
+ul.elc_search-list{
+    list-style-type: none;
+}
+ul.elc_search-list li .elc-wrapper,
+ul.elc_search-list li .elc-wrapper span {
+    display: block;
+}
+ul.elc_search-list li .elc-wrapper{
+    padding-top: 1em;
+}
+ul.elc_search-list li .elc-wrapper span:first-of-type {
+    white-space: nowrap;
+    padding-right: 1em;
+    font-weight: bold;
+}
+ul.elc_search-list li .elc-wrapper span:last-of-type {
+    overflow-x: hidden;
+}
+
+@media (min-width: 768px) {
+    ul.elc_search-list li .elc-wrapper {
+        display: flex;
+        justify-content: space-between;
+        border-bottom: solid 1px #dddddd;
+    }
+    ul.elc_search-list li .elc-wrapper span:first-of-type {
+        font-weight: inherit;
+    }
+}
+
+/* Style for table.tpl.php */
+@media screen and (max-width: 767px) {
+    #elc_search-table table {
+        width: 100%;
+    }
+
+    #elc_search-table thead {
+        display: none;
+    }
+
+    #elc_search-table tr:nth-of-type(2n) {
+        background-color: inherit;
+    }
+
+    #elc_search-table tbody td {
+        display: block;
+        text-align: left;
+    }
+
+    #elc_search-table tbody td:before {
+        content: attr(data-th);
+        display: block;
+        font-weight: bold;
+        text-align: left;
+    }
+}
